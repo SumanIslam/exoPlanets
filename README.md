@@ -5,3 +5,8 @@ gathered data about planets beyond our solar system. Kepler observed hundreds of
 shared all the data that Kepler gathered over the time.
 
 Details of Liftoff of the Kepler spacecraft is available [here](https://www.nasa.gov/mission_pages/kepler/launch/index.html).
+
+We got all the data that kepler telescope gathered all the year from [NASA Exoplanets Archive](https://exoplanetarchive.ipac.caltech.edu/docs/data.html) and all the data are stored in **kepler_data.csv** file in the current project directory.
+
+What the hell is exoplanets?
+> An exoplanet is any planet beyond our solar system.
