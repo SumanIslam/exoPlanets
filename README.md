@@ -10,3 +10,5 @@ We got all the data that kepler telescope gathered all the year from [NASA Exopl
 
 What the hell is exoplanets?
 > An exoplanet is any planet beyond our solar system.
+
+Kepler telescope found over nine thousands of exoplanets but all of them are not habitable. Only couple of them are likely to be habitable.
